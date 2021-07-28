@@ -3,8 +3,8 @@ Registry
 
 A [smart contract] written in [AssemblyScript] running on NEAR that:
 
--Associates a NEAR Account name with a decentralized identifier (DID)
--Stores custom definitions/aliases for use on Ceramic Network
+* Associates a NEAR Account name with a decentralized identifier (DID)
+* Stores custom definitions/aliases for use on Ceramic Network
 
 Registry is a component of [Catalyst].
 
