@@ -2,7 +2,7 @@
   "name": "registry",
   "version": "1.0.0",
   "license": "ISC",
-  "author": "Aaron Luhning",
+  "author": "Aaron Luhning [a.luhning@vitalpoint.ai] | Vital Point AI [https://vitalpoint.ai]",
   "private": true,
   "scripts": {
     "build": "asb",
